@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -23,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
