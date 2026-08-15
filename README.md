@@ -41,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anushka-saini/LeetCode/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/anushka-saini/LeetCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
