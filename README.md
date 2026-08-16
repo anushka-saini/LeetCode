@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -64,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
