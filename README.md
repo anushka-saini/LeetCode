@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushka-saini/LeetCode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/anushka-saini/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +75,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/anushka-saini/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
