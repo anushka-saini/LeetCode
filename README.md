@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [0904-fruit-into-baskets](https://github.com/anushka-saini/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/anushka-saini/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/anushka-saini/LeetCode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Enumeration
 |  |
 | ------- |
