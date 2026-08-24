@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka-saini/LeetCode/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/anushka-saini/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/anushka-saini/LeetCode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anushka-saini/LeetCode/tree/master/0031-next-permutation) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/anushka-saini/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-saini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/anushka-saini/LeetCode/tree/master/0904-fruit-into-baskets) |
