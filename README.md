@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/anushka-saini/LeetCode/tree/master/0071-simplify-path) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/anushka-saini/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/anushka-saini/LeetCode/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/anushka-saini/LeetCode/tree/master/0680-valid-palindrome-ii) |
