@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anushka-saini/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/anushka-saini/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-saini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
