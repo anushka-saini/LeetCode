@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/anushka-saini/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anushka-saini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/anushka-saini/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/anushka-saini/LeetCode/tree/master/0344-reverse-string) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 | [0541-reverse-string-ii](https://github.com/anushka-saini/LeetCode/tree/master/0541-reverse-string-ii) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anushka-saini/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anushka-saini/LeetCode/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -214,9 +218,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/anushka-saini/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-saini/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/anushka-saini/LeetCode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
