@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka-saini/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/anushka-saini/LeetCode/tree/master/0006-zigzag-conversion) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anushka-saini/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/anushka-saini/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0125-valid-palindrome) |
