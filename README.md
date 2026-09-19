@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anushka-saini/LeetCode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anushka-saini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/anushka-saini/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/anushka-saini/LeetCode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/anushka-saini/LeetCode/tree/master/0027-remove-element) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/anushka-saini/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/anushka-saini/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0014-longest-common-prefix](https://github.com/anushka-saini/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/anushka-saini/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0071-simplify-path](https://github.com/anushka-saini/LeetCode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0125-valid-palindrome) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anushka-saini/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anushka-saini/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
