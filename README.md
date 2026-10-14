@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/anushka-saini/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/anushka-saini/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -324,4 +327,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+## Treap
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
