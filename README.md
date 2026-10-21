@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/anushka-saini/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anushka-saini/LeetCode/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka-saini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anushka-saini/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anushka-saini/LeetCode/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/anushka-saini/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anushka-saini/LeetCode/tree/master/0050-powx-n) |
+| [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/anushka-saini/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/anushka-saini/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -375,4 +379,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/anushka-saini/LeetCode/tree/master/0986-interval-list-intersections) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
