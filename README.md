@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-saini/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anushka-saini/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushka-saini/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anushka-saini/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-saini/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushka-saini/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anushka-saini/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anushka-saini/LeetCode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/anushka-saini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0680-valid-palindrome-ii](https://github.com/anushka-saini/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushka-saini/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anushka-saini/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
 |  |
