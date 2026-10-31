@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anushka-saini/LeetCode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/anushka-saini/LeetCode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/anushka-saini/LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-saini/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/anushka-saini/LeetCode/tree/master/0219-contains-duplicate-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/anushka-saini/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anushka-saini/LeetCode/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/anushka-saini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/anushka-saini/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anushka-saini/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anushka-saini/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anushka-saini/LeetCode/tree/master/0050-powx-n) |
 | [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
+| [0189-rotate-array](https://github.com/anushka-saini/LeetCode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/anushka-saini/LeetCode/tree/master/0202-happy-number) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0556-next-greater-element-iii](https://github.com/anushka-saini/LeetCode/tree/master/0556-next-greater-element-iii) |
