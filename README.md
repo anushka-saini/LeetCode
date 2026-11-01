@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 | [0485-max-consecutive-ones](https://github.com/anushka-saini/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/anushka-saini/LeetCode/tree/master/0053-maximum-subarray) |
 | [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anushka-saini/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0845-longest-mountain-in-array](https://github.com/anushka-saini/LeetCode/tree/master/0845-longest-mountain-in-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anushka-saini/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Stack
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
+| [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/anushka-saini/LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anushka-saini/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anushka-saini/LeetCode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/anushka-saini/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -305,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/anushka-saini/LeetCode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/anushka-saini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/anushka-saini/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushka-saini/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anushka-saini/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
