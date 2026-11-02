@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/anushka-saini/LeetCode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/anushka-saini/LeetCode/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/anushka-saini/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anushka-saini/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/anushka-saini/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/anushka-saini/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/anushka-saini/LeetCode/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/anushka-saini/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/anushka-saini/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Trie
 |  |
 | ------- |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-saini/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anushka-saini/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/anushka-saini/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
