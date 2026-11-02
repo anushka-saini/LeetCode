@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0275-h-index-ii](https://github.com/anushka-saini/LeetCode/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/anushka-saini/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/anushka-saini/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0327-count-of-range-sum](https://github.com/anushka-saini/LeetCode/tree/master/0327-count-of-range-sum) |
 | [0410-split-array-largest-sum](https://github.com/anushka-saini/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/anushka-saini/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/anushka-saini/LeetCode/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/anushka-saini/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/anushka-saini/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 ## Quicksort
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/anushka-saini/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/anushka-saini/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/anushka-saini/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0318-maximum-product-of-word-lengths](https://github.com/anushka-saini/LeetCode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/anushka-saini/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/anushka-saini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0409-longest-palindrome) |
