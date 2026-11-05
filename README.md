@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/anushka-saini/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/anushka-saini/LeetCode/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/anushka-saini/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/anushka-saini/LeetCode/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anushka-saini/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -334,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/anushka-saini/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/anushka-saini/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/anushka-saini/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0086-partition-list](https://github.com/anushka-saini/LeetCode/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/anushka-saini/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anushka-saini/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anushka-saini/LeetCode/tree/master/0143-reorder-list) |
