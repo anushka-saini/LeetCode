@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/anushka-saini/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0707-design-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [1206-design-skiplist](https://github.com/anushka-saini/LeetCode/tree/master/1206-design-skiplist) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
@@ -485,4 +487,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0707-design-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0707-design-linked-list) |
 | [1206-design-skiplist](https://github.com/anushka-saini/LeetCode/tree/master/1206-design-skiplist) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/anushka-saini/LeetCode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
