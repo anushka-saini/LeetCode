@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-saini/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/anushka-saini/LeetCode/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anushka-saini/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/anushka-saini/LeetCode/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/anushka-saini/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0409-longest-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0457-circular-array-loop](https://github.com/anushka-saini/LeetCode/tree/master/0457-circular-array-loop) |
 | [0523-continuous-subarray-sum](https://github.com/anushka-saini/LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/anushka-saini/LeetCode/tree/master/0525-contiguous-array) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/anushka-saini/LeetCode/tree/master/0169-majority-element) |
 | [0299-bulls-and-cows](https://github.com/anushka-saini/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anushka-saini/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anushka-saini/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/anushka-saini/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/anushka-saini/LeetCode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/anushka-saini/LeetCode/tree/master/0409-longest-palindrome) |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/anushka-saini/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0556-next-greater-element-iii](https://github.com/anushka-saini/LeetCode/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/anushka-saini/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -362,7 +366,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/anushka-saini/LeetCode/tree/master/0101-symmetric-tree) |
-| [0110-balanced-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -374,7 +377,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/anushka-saini/LeetCode/tree/master/0101-symmetric-tree) |
-| [0110-balanced-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -388,7 +390,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/anushka-saini/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/anushka-saini/LeetCode/tree/master/0101-symmetric-tree) |
-| [0110-balanced-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/anushka-saini/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -468,12 +469,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anushka-saini/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anushka-saini/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/anushka-saini/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
