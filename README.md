@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/anushka-saini/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0977-squares-of-a-sorted-array](https://github.com/anushka-saini/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/anushka-saini/LeetCode/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/anushka-saini/LeetCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/anushka-saini/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/anushka-saini/LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0992-subarrays-with-k-different-integers](https://github.com/anushka-saini/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/anushka-saini/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anushka-saini/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/anushka-saini/LeetCode/tree/master/0669-trim-a-binary-search-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -525,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/anushka-saini/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/anushka-saini/LeetCode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Bracket Sequences
 |  |
 | ------- |
